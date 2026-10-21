@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TP-BD\\ParcialWebAPI - para alumnos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01A80070-C256-419C-972F-B4DF420AE573}|ParcialWebAPI\\ParcialWebAPI.csproj|d:\\tp-bd\\parcialwebapi - para alumnos\\parcialwebapi\\repositories\\agentesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01A80070-C256-419C-972F-B4DF420AE573}|ParcialWebAPI\\ParcialWebAPI.csproj|solutionrelative:parcialwebapi\\repositories\\agentesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A80070-C256-419C-972F-B4DF420AE573}|ParcialWebAPI\\ParcialWebAPI.csproj|d:\\tp-bd\\parcialwebapi - para alumnos\\parcialwebapi\\controllers\\agentescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01A80070-C256-419C-972F-B4DF420AE573}|ParcialWebAPI\\ParcialWebAPI.csproj|solutionrelative:parcialwebapi\\controllers\\agentescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A80070-C256-419C-972F-B4DF420AE573}|ParcialWebAPI\\ParcialWebAPI.csproj|d:\\tp-bd\\parcialwebapi - para alumnos\\parcialwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01A80070-C256-419C-972F-B4DF420AE573}|ParcialWebAPI\\ParcialWebAPI.csproj|solutionrelative:parcialwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A80070-C256-419C-972F-B4DF420AE573}|ParcialWebAPI\\ParcialWebAPI.csproj|d:\\tp-bd\\parcialwebapi - para alumnos\\parcialwebapi\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01A80070-C256-419C-972F-B4DF420AE573}|ParcialWebAPI\\ParcialWebAPI.csproj|solutionrelative:parcialwebapi\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A80070-C256-419C-972F-B4DF420AE573}|ParcialWebAPI\\ParcialWebAPI.csproj|d:\\tp-bd\\parcialwebapi - para alumnos\\parcialwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{01A80070-C256-419C-972F-B4DF420AE573}|ParcialWebAPI\\ParcialWebAPI.csproj|solutionrelative:parcialwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A80070-C256-419C-972F-B4DF420AE573}|ParcialWebAPI\\ParcialWebAPI.csproj|d:\\tp-bd\\parcialwebapi - para alumnos\\parcialwebapi\\models\\agentesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01A80070-C256-419C-972F-B4DF420AE573}|ParcialWebAPI\\ParcialWebAPI.csproj|solutionrelative:parcialwebapi\\models\\agentesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A80070-C256-419C-972F-B4DF420AE573}|ParcialWebAPI\\ParcialWebAPI.csproj|d:\\tp-bd\\parcialwebapi - para alumnos\\parcialwebapi\\efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{01A80070-C256-419C-972F-B4DF420AE573}|ParcialWebAPI\\ParcialWebAPI.csproj|solutionrelative:parcialwebapi\\efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A80070-C256-419C-972F-B4DF420AE573}|ParcialWebAPI\\ParcialWebAPI.csproj|d:\\tp-bd\\parcialwebapi - para alumnos\\parcialwebapi\\efpt.config.json.user||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{01A80070-C256-419C-972F-B4DF420AE573}|ParcialWebAPI\\ParcialWebAPI.csproj|solutionrelative:parcialwebapi\\efpt.config.json.user||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A80070-C256-419C-972F-B4DF420AE573}|ParcialWebAPI\\ParcialWebAPI.csproj|d:\\tp-bd\\parcialwebapi - para alumnos\\parcialwebapi\\dtos\\createtaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01A80070-C256-419C-972F-B4DF420AE573}|ParcialWebAPI\\ParcialWebAPI.csproj|solutionrelative:parcialwebapi\\dtos\\createtaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AgentesController.cs",
+              "DocumentMoniker": "D:\\TP-BD\\ParcialWebAPI - para alumnos\\ParcialWebAPI\\Controllers\\AgentesController.cs",
+              "RelativeDocumentMoniker": "ParcialWebAPI\\Controllers\\AgentesController.cs",
+              "ToolTip": "D:\\TP-BD\\ParcialWebAPI - para alumnos\\ParcialWebAPI\\Controllers\\AgentesController.cs",
+              "RelativeToolTip": "ParcialWebAPI\\Controllers\\AgentesController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwD8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T23:45:38.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AgentesRepository.cs",
+              "DocumentMoniker": "D:\\TP-BD\\ParcialWebAPI - para alumnos\\ParcialWebAPI\\Repositories\\AgentesRepository.cs",
+              "RelativeDocumentMoniker": "ParcialWebAPI\\Repositories\\AgentesRepository.cs",
+              "ToolTip": "D:\\TP-BD\\ParcialWebAPI - para alumnos\\ParcialWebAPI\\Repositories\\AgentesRepository.cs",
+              "RelativeToolTip": "ParcialWebAPI\\Repositories\\AgentesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T23:44:24.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AgentesDbContext.cs",
+              "DocumentMoniker": "D:\\TP-BD\\ParcialWebAPI - para alumnos\\ParcialWebAPI\\Models\\AgentesDbContext.cs",
+              "RelativeDocumentMoniker": "ParcialWebAPI\\Models\\AgentesDbContext.cs",
+              "ToolTip": "D:\\TP-BD\\ParcialWebAPI - para alumnos\\ParcialWebAPI\\Models\\AgentesDbContext.cs",
+              "RelativeToolTip": "ParcialWebAPI\\Models\\AgentesDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T10:29:46.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "efpt.config.json.user",
+              "DocumentMoniker": "D:\\TP-BD\\ParcialWebAPI - para alumnos\\ParcialWebAPI\\efpt.config.json.user",
+              "RelativeDocumentMoniker": "ParcialWebAPI\\efpt.config.json.user",
+              "ToolTip": "D:\\TP-BD\\ParcialWebAPI - para alumnos\\ParcialWebAPI\\efpt.config.json.user",
+              "RelativeToolTip": "ParcialWebAPI\\efpt.config.json.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2026-10-08T10:20:38.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "efpt.config.json",
+              "DocumentMoniker": "D:\\TP-BD\\ParcialWebAPI - para alumnos\\ParcialWebAPI\\efpt.config.json",
+              "RelativeDocumentMoniker": "ParcialWebAPI\\efpt.config.json",
+              "ToolTip": "D:\\TP-BD\\ParcialWebAPI - para alumnos\\ParcialWebAPI\\efpt.config.json",
+              "RelativeToolTip": "ParcialWebAPI\\efpt.config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-08T10:20:39.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\TP-BD\\ParcialWebAPI - para alumnos\\ParcialWebAPI\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "ParcialWebAPI\\Repositories\\IRepository.cs",
+              "ToolTip": "D:\\TP-BD\\ParcialWebAPI - para alumnos\\ParcialWebAPI\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "ParcialWebAPI\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T09:52:33.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\TP-BD\\ParcialWebAPI - para alumnos\\ParcialWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ParcialWebAPI\\appsettings.json",
+              "ToolTip": "D:\\TP-BD\\ParcialWebAPI - para alumnos\\ParcialWebAPI\\appsettings.json",
+              "RelativeToolTip": "ParcialWebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-08T10:20:46.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TP-BD\\ParcialWebAPI - para alumnos\\ParcialWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ParcialWebAPI\\Program.cs",
+              "ToolTip": "D:\\TP-BD\\ParcialWebAPI - para alumnos\\ParcialWebAPI\\Program.cs",
+              "RelativeToolTip": "ParcialWebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T10:21:13.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateTaskDto.cs",
+              "DocumentMoniker": "D:\\TP-BD\\ParcialWebAPI - para alumnos\\ParcialWebAPI\\Dtos\\CreateTaskDto.cs",
+              "RelativeDocumentMoniker": "ParcialWebAPI\\Dtos\\CreateTaskDto.cs",
+              "ToolTip": "D:\\TP-BD\\ParcialWebAPI - para alumnos\\ParcialWebAPI\\Dtos\\CreateTaskDto.cs",
+              "RelativeToolTip": "ParcialWebAPI\\Dtos\\CreateTaskDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T10:13:56.514Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+[
+  {
+    "ContainingType": "ParcialWebAPI.Controllers.AgentesController",
+    "Method": "GetByFilter",
+    "RelativePath": "activos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "modelo",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ParcialWebAPI.Controllers.AgentesController",
+    "Method": "GetById",
+    "RelativePath": "api/agentes/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ParcialWebAPI.Controllers.AgentesController",
+    "Method": "AssignTask",
+    "RelativePath": "api/agentes/{id}/tarea",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "ParcialWebAPI.Dtos.CreateTaskDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

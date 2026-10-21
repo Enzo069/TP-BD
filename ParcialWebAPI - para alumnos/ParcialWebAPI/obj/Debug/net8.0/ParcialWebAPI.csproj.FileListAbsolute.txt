@@ -1,0 +1,281 @@
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\efpt.config.json
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\ParcialWebAPI.staticwebassets.endpoints.json
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\ParcialWebAPI.exe
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\ParcialWebAPI.deps.json
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\ParcialWebAPI.runtimeconfig.json
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\ParcialWebAPI.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\ParcialWebAPI.pdb
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\Humanizer.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\obj\Debug\net8.0\ParcialWebAPI.csproj.AssemblyReference.cache
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\obj\Debug\net8.0\ParcialWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\obj\Debug\net8.0\ParcialWebAPI.AssemblyInfoInputs.cache
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\obj\Debug\net8.0\ParcialWebAPI.AssemblyInfo.cs
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\obj\Debug\net8.0\ParcialWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\obj\Debug\net8.0\ParcialWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\obj\Debug\net8.0\ParcialWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\obj\Debug\net8.0\scopedcss\bundle\ParcialWebAPI.styles.css
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\obj\Debug\net8.0\ParcialW.A27EBABE.Up2Date
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\obj\Debug\net8.0\ParcialWebAPI.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\obj\Debug\net8.0\refint\ParcialWebAPI.dll
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\obj\Debug\net8.0\ParcialWebAPI.pdb
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\obj\Debug\net8.0\ParcialWebAPI.genruntimeconfig.cache
+C:\Users\MiPC\source\repos\ParcialWebAPI\ParcialWebAPI\obj\Debug\net8.0\ref\ParcialWebAPI.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\appsettings.json
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\efpt.config.json
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\ParcialWebAPI.staticwebassets.endpoints.json
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\ParcialWebAPI.exe
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\ParcialWebAPI.deps.json
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\ParcialWebAPI.runtimeconfig.json
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\ParcialWebAPI.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\ParcialWebAPI.pdb
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\Azure.Core.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\Azure.Identity.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\Humanizer.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\System.CodeDom.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\System.Memory.Data.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\obj\Debug\net8.0\ParcialWebAPI.csproj.AssemblyReference.cache
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\obj\Debug\net8.0\ParcialWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\obj\Debug\net8.0\ParcialWebAPI.AssemblyInfoInputs.cache
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\obj\Debug\net8.0\ParcialWebAPI.AssemblyInfo.cs
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\obj\Debug\net8.0\ParcialWebAPI.csproj.CoreCompileInputs.cache
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\obj\Debug\net8.0\ParcialWebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\obj\Debug\net8.0\ParcialWebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\obj\Debug\net8.0\ParcialWebAPI.sourcelink.json
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\obj\Debug\net8.0\scopedcss\bundle\ParcialWebAPI.styles.css
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\obj\Debug\net8.0\ParcialW.A27EBABE.Up2Date
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\obj\Debug\net8.0\ParcialWebAPI.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\obj\Debug\net8.0\refint\ParcialWebAPI.dll
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\obj\Debug\net8.0\ParcialWebAPI.pdb
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\obj\Debug\net8.0\ParcialWebAPI.genruntimeconfig.cache
+D:\TP-BD\ParcialWebAPI - para alumnos\ParcialWebAPI\obj\Debug\net8.0\ref\ParcialWebAPI.dll
